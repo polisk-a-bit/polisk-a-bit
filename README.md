@@ -8,4 +8,4 @@ Sou um cientista da computação em formação com vontade de aprender e evoluir
 
 # Projetos
 - [Sistema de Gerenciamento de Produtos](https://github.com/polisk-a-bit/Gerenciador-de-Produtos) - Um sistema completo de gerenciamento de produitos com níveis de autorização. 
-- Clone do Pinterest - Um projeto clone do site Pinterest.
+- [Clone do Pinterest](https://github.com/polisk-a-bit/Projeto-Clone-Pinterest) - Um projeto clone do site Pinterest.
