@@ -7,5 +7,5 @@ Sou um cientista da computação em formação com vontade de aprender e evoluir
 - 💬 Desenvolvendo projetos utilizando Python, HTML e SQL.
 
 # Projetos
-- Sistema de Gerenciamento de Produtos - Um sistema completo de gerenciamento de produitos com níveis de autorização. 
+- [Sistema de Gerenciamento de Produtos](https://github.com/polisk-a-bit/Gerenciador-de-Produtos) - Um sistema completo de gerenciamento de produitos com níveis de autorização. 
 - Clone do Pinterest - Um projeto clone do site Pinterest.
